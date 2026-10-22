@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f8f3ee">
+
+  <title>House of Chandu | Women's Fashion & Lifestyle</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+
+<body>
+
+  <div class="announcement">
+    A little elegance, for every version of you
+  </div>
+
+  <header class="header" id="top">
+    
+    
+<a href="index.html" class="logo-link" aria-label="House of Chandu home">
+  <img
+    src="images/logo.png"
+    alt="House of Chandu logo"
+    class="site-logo"
+  >
+
+  <span class="logo-text">
+    <span class="logo-title">HOUSE OF CHANDU</span>
+    <span class="logo-subtitle">WOMEN'S FASHION &amp; LIFESTYLE</span>
+  </span>
+</a>
+
+
+
+    <button
+      class="menu-toggle"
+      id="menuToggle"
+      aria-label="Open navigation"
+      aria-expanded="false"
+    >
+      <span></span>
+      <span></span>
+    </button>
+
+    <nav id="mainNav" aria-label="Main navigation">
+      <a href="#collections">Collections &amp; Shop</a>
+      <a href="#story">Our Story</a>
+      <a href="#contact">Contact</a>
+    </nav>
+
+   
+<div class="header-actions">
+  <button
+    class="wishlist-trigger"
+    id="wishlistTrigger"
+    type="button"
+    aria-label="Open wishlist"
+  >
+    Wishlist <span id="wishlistCount">0</span>
+  </button>
+
+  <button
+    class="cart-trigger"
+    id="cartTrigger"
+    type="button"
+    aria-label="Open shopping cart"
+  >
+    Bag <span id="cartCount">0</span>
+  </button>
+</div>
+
+  </header>
+
+
+  <main>
+
+    <!-- HERO SECTION -->
+    <section class="hero" id="home">
+
+      <div class="hero-copy">
+        <p class="eyebrow">THE NEW SEASON EDIT</p>
+
+        <h1>Wear what<br>makes you <em>feel.</em></h1>
+
+        <p class="hero-text">
+          Thoughtfully chosen styles for celebrations, everyday moments
+          and everything in between.
+        </p>
+
+        <a class="button dark" href="#collections">
+          Explore collections <span>↗</span>
+        </a>
+
+        <p class="hero-note">ETHNIC · WESTERN · YOUR STYLE</p>
+      </div>
+
+      <div class="hero-slider" id="heroSlider">
+
+        <article class="hero-slide active">
+          <img
+            src="https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1200&q=85"
+            alt="Ethnic fashion inspiration"
+          >
+          <div class="slide-caption">
+            <small>01 / 05</small>
+            <strong>Ethnic elegance</strong>
+          </div>
+        </article>
+
+        <article class="hero-slide">
+          <img
+            src="https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=85"
+            alt="Modern women's fashion"
+          >
+          <div class="slide-caption">
+            <small>02 / 05</small>
+            <strong>Modern classics</strong>
+          </div>
+        </article>
+
+        <article class="hero-slide">
+          <img
+            src="https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1200&q=85"
+            alt="Occasion dress inspiration"
+          >
+          <div class="slide-caption">
+            <small>03 / 05</small>
+            <strong>Celebration edit</strong>
+          </div>
+        </article>
+
+        <article class="hero-slide">
+          <img
+            src="https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=1200&q=85"
+            alt="Contemporary fashion"
+          >
+          <div class="slide-caption">
+            <small>04 / 05</small>
+            <strong>Everyday ease</strong>
+          </div>
+        </article>
+
+        <article class="hero-slide">
+          <img
+            src="https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1200&q=85"
+            alt="Statement fashion"
+          >
+          <div class="slide-caption">
+            <small>05 / 05</small>
+            <strong>The occasion edit</strong>
+          </div>
+        </article>
+
+        <div class="slider-controls">
+          <button id="prevSlide" type="button" aria-label="Previous slide">←</button>
+          <div class="slider-progress">
+            <span id="sliderProgress"></span>
+          </div>
+          <button id="nextSlide" type="button" aria-label="Next slide">→</button>
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- COLLECTIONS -->
+    <section class="section collections-section" id="collections">
+
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">FIND YOUR FEEL</p>
+          <h2>Collections <em>to love.</em></h2>
+        </div>
+
+        <p class="muted">
+          Choose a collection to browse its products, prices and available sizes.
+        </p>
+      </div>
+
+      <div class="collection-grid">
+
+        <button class="collection-card collection-wide" data-open-category="Ethnic Wear">
+          <img src="https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=85" alt="">
+          <span class="collection-number">01</span>
+          <span class="collection-label">
+            <small>TIMELESS TRADITION</small>
+            <strong>Ethnic Wear</strong>
+            <b>Shop collection ↗</b>
+          </span>
+        </button>
+
+        <button class="collection-card" data-open-category="Western Wear">
+          <img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=85" alt="">
+          <span class="collection-number">02</span>
+          <span class="collection-label">
+            <small>EVERYDAY STATEMENT</small>
+            <strong>Western Wear</strong>
+            <b>Shop collection ↗</b>
+          </span>
+        </button>
+
+        <button class="collection-card" data-open-category="Occasion Wear">
+          <img src="https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85" alt="">
+          <span class="collection-number">03</span>
+          <span class="collection-label">
+            <small>MADE FOR THE MOMENT</small>
+            <strong>Occasion Wear</strong>
+            <b>Shop collection ↗</b>
+          </span>
+        </button>
+
+        <button class="collection-card" data-open-category="Everyday Wear">
+          <img src="https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&q=85" alt="">
+          <span class="collection-number">04</span>
+          <span class="collection-label">
+            <small>COMFORT MEETS STYLE</small>
+            <strong>Everyday Wear</strong>
+            <b>Shop collection ↗</b>
+          </span>
+        </button>
+
+        <button class="collection-card collection-wide" data-open-category="Celebration Wear">
+          <img src="https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=900&q=85" alt="">
+          <span class="collection-number">05</span>
+          <span class="collection-label">
+            <small>YOUR SPECIAL DAYS</small>
+            <strong>Celebration Wear</strong>
+            <b>Shop collection ↗</b>
+          </span>
+        </button>
+
+      </div>
+    </section>
+
+
+    <!-- SHOP -->
+    <section class="shop-section" id="shop">
+      <div class="section">
+
+        <div class="section-heading shop-heading">
+          <div>
+            <p class="eyebrow">THE HOUSE EDIT</p>
+            <h2 id="listingTitle">Shop all <em>pieces.</em></h2>
+          </div>
+
+          <p class="muted">
+            Choose a product to view its gallery, price, sizes and specifications.
+          </p>
+        </div>
+
+        <div class="listing-toolbar">
+          <div class="category-tabs" id="categoryTabs">
+            <button class="category-tab active" data-category="All">All products</button>
+            <button class="category-tab" data-category="Ethnic Wear">Ethnic</button>
+            <button class="category-tab" data-category="Western Wear">Western</button>
+            <button class="category-tab" data-category="Occasion Wear">Occasion</button>
+            <button class="category-tab" data-category="Everyday Wear">Everyday</button>
+            <button class="category-tab" data-category="Celebration Wear">Celebration</button>
+          </div>
+
+          <span id="productCount" class="product-count"></span>
+        </div>
+
+        <div class="product-grid" id="productGrid"></div>
+
+        <div class="explore-more-wrap">
+          <a href="all-products.html" class="explore-more-btn">
+            Explore More
+            <span aria-hidden="true">↗</span>
+          </a>
+        </div>
+
+        <p class="demo-note">
+          Demo catalogue: names, prices, images and stock shown here are examples only.
+          Replace them with your actual inventory before publishing.
+        </p>
+
+      </div>
+    </section>
+
+
+    <!-- PRODUCT DETAILS -->
+    <section class="product-detail-section" id="productDetailSection" hidden>
+      <div class="detail-back">
+        <button id="backToProducts" type="button">← Back to products</button>
+        <span> / Product details</span>
+      </div>
+
+      <div class="product-detail" id="productDetail"></div>
+    </section>
+
+
+    <!-- OUR STORY -->
+    <section class="story-section section" id="story">
+
+      <div class="story-image">
+        <img
+          src="https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1000&q=85"
+          alt="Fashion editorial portrait"
+        >
+        <span>STYLE IS PERSONAL.</span>
+      </div>
+
+      <div class="story-copy">
+        <p class="eyebrow">A NOTE FROM THE HOUSE</p>
+
+        <h2>Fashion that feels<br><em>like you.</em></h2>
+
+        <p>
+          House of Chandu is a space for discovering pieces that feel special,
+          comfortable and unmistakably yours. From timeless ethnic styles to
+          modern western looks, we believe getting dressed should feel like
+          an expression—not a rulebook.
+        </p>
+
+        <p>
+          We’re building a thoughtful edit for everyday confidence,
+          meaningful celebrations and all the little moments in between.
+        </p>
+
+        <a class="button outline" href="#contact">Say hello ↗</a>
+
+        <div class="signoff">
+          With love,
+          <strong>House of Chandu</strong>
+        </div>
+      </div>
+
+    </section>
+
+
+    <!-- CONTACT -->
+    <section class="contact-section" id="contact">
+
+      <div class="contact-orb orb-one"></div>
+      <div class="contact-orb orb-two"></div>
+
+      <div class="contact-content">
+        <p class="eyebrow">LET'S CONNECT</p>
+
+        <h2>A little question?<br><em>We’re here.</em></h2>
+
+        <p>
+          Questions about a style, sizing or availability?
+          Contact us and we’ll help you find your fit.
+        </p>
+
+        <button class="button light" id="contactWhatsApp" type="button">
+          Chat on WhatsApp ↗
+        </button>
+
+        <small>Message us directly on WhatsApp.</small>
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-top">
+
+      <a class="brand" href="#top">
+        <span>House <i>of</i> Chandu</span>
+        <small>WOMEN'S FASHION &amp; LIFESTYLE</small>
+      </a>
+
+      <p>Wear what makes you feel.</p>
+
+      <a href="#top">Back to top ↑</a>
+    </div>
+
+    <div class="footer-bottom">
+      <span>
+        © <span id="currentYear"></span> House of Chandu. All rights reserved.
+      </span>
+
+      <span>Made with care, styled with feeling.</span>
+
+      <div>
+        <a href="#collections">Collections</a>
+        <a href="#story">Our Story</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- ORIGINAL CART BACKDROP -->
+  <div class="drawer-backdrop" id="drawerBackdrop"></div>
+
+
+  <!-- ORIGINAL SHOPPING BAG DRAWER -->
+  
+<!-- WISHLIST PANEL -->
+<section
+  class="wishlist-panel"
+  id="wishlistPanel"
+  aria-label="Your wishlist"
+  aria-hidden="true"
+>
+  <!-- Wishlist heading and close button -->
+  <div class="wishlist-panel-header">
+    <div>
+      <p class="eyebrow">YOUR FAVOURITES</p>
+      <h2>My <em>Wishlist.</em></h2>
+    </div>
+
+    <button
+      type="button"
+      id="closeWishlist"
+      aria-label="Close wishlist"
+    >
+      ×
+    </button>
+  </div>
+
+  <!-- Message shown when the wishlist is empty -->
+  <p class="wishlist-empty" id="wishlistEmpty">
+    Your wishlist is empty. Save the pieces you love by tapping ♡.
+  </p>
+
+  <!-- Saved products are inserted here by JavaScript -->
+  <div class="wishlist-items" id="wishlistItems"></div>
+</section>
+<!-- END WISHLIST PANEL -->
+
+  <aside
+    class="cart-drawer"
+    id="cartDrawer"
+    aria-label="Shopping cart"
+    aria-hidden="true"
+  >
+
+    <div class="drawer-header">
+      <div>
+        <p class="eyebrow">YOUR SELECTION</p>
+        <h2>Your bag <span id="drawerCount">(0)</span></h2>
+      </div>
+
+      <button id="closeCart" type="button" aria-label="Close cart">✕</button>
+    </div>
+
+    <div class="cart-items" id="cartItems"></div>
+
+    <div class="cart-footer">
+
+      <div class="cart-total">
+        <span>Subtotal</span>
+        <strong id="cartSubtotal">₹0</strong>
+      </div>
+
+      <p>Shipping and payment are confirmed when the order is placed.</p>
+
+      <button
+        class="button dark checkout-button"
+        id="checkoutButton"
+        type="button"
+      >
+        Continue to order ↗
+      </button>
+
+      <!-- NEW: CUSTOMER DETAILS -->
+      <form id="customerOrderForm" hidden style="margin-top: 20px;">
+
+        <p class="eyebrow">DELIVERY DETAILS</p>
+        <h3 style="font-family: var(--serif); font-weight: 400; font-size: 24px; margin: 0 0 14px;">
+          Where should we send your order?
+        </h3>
+
+        <label for="customerName" style="display:block; margin: 12px 0 6px; font-size: 12px;">
+          Full name
+        </label>
+        <input
+          id="customerName"
+          name="customerName"
+          type="text"
+          autocomplete="name"
+          maxlength="100"
+          required
+          placeholder="Enter your full name"
+          style="display:block; width:100%; box-sizing:border-box; padding:12px; border:1px solid var(--line); background:transparent; color:var(--ink); font:inherit; font-size:13px;"
+        >
+
+        <label for="customerPhone" style="display:block; margin: 12px 0 6px; font-size: 12px;">
+          Phone number
+        </label>
+        <input
+          id="customerPhone"
+          name="customerPhone"
+          type="tel"
+          autocomplete="tel"
+          inputmode="tel"
+          maxlength="16"
+          required
+          placeholder="10-digit mobile number"
+          style="display:block; width:100%; box-sizing:border-box; padding:12px; border:1px solid var(--line); background:transparent; color:var(--ink); font:inherit; font-size:13px;"
+        >
+
+        <label for="customerAddress" style="display:block; margin: 12px 0 6px; font-size: 12px;">
+          Complete delivery address
+        </label>
+        <textarea
+          id="customerAddress"
+          name="customerAddress"
+          autocomplete="street-address"
+          rows="4"
+          maxlength="500"
+          required
+          placeholder="House number, street, town/city, district, state and PIN code"
+          style="display:block; width:100%; box-sizing:border-box; padding:12px; border:1px solid var(--line); background:transparent; color:var(--ink); font:inherit; font-size:13px; resize:vertical;"
+        ></textarea>
+
+        <button
+          class="button dark"
+          id="sendWhatsAppOrder"
+          type="submit"
+          style="width:100%; margin-top:16px;"
+        >
+          Send order through WhatsApp ↗
+        </button>
+
+        <p style="font-size:11px; line-height:1.7; color:var(--muted);">
+          WhatsApp opens with your order details. Tap Send in WhatsApp to submit your order.
+        </p>
+
+      </form>
+
+    </div>
+
+  </aside>
+
+
+  <!-- ORIGINAL TOAST -->
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+</body>
+</html>
