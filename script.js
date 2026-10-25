@@ -1,7 +1,8 @@
+
 document.addEventListener("DOMContentLoaded", () => {
   "use strict";
 
-     // Clear cart and wishlist whenever the page is refreshed or opened.
+  // Reset the bag and wishlist on each fresh page load, as configured.
   localStorage.removeItem("houseOfChanduCart");
   localStorage.removeItem("houseOfChanduWishlist");
 
@@ -32,11 +33,11 @@ document.addEventListener("DOMContentLoaded", () => {
       available: ["L", "XL", "2XL"],
       images: [
         "images/anarkali-white-pink-01.jpeg",
-        "images/anarkali-white-pink-02.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
       ],
       description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
       specs: {
-        Fabric: "Add actual fabric",
+        Fabric: "Chanderi Cotton",
         Neckline: "Add neckline",
         Sleeve: "Add sleeve type",
         Pattern: "Embroidered",
@@ -46,93 +47,93 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       id: "eth-002",
-      name: "Ivory Embroidered Anarkali Set",
+      name: "Chanderi Cotton Embroidered Kurta Set",
       brand: "HOUSE OF CHANDU",
       category: "Ethnic Wear",
-      price: 5499,
-      oldPrice: null,
+      price: 1499,
+      oldPrice: 1499,
       badge: "NEW",
-      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
-      available: ["XS", "S", "M", "L", "XL", "2XL"],
-      images: [
-        ""
-      ],
-      description: "A graceful ivory-inspired festive look. Update with the product's verified materials and details.",
+      sizes: ["M", "XL"],
+      available: ["M", "L", "XL"],
+      images: ["images/Blackdress.png"],
+      description: "A graceful festive look. Update with the product's verified materials and details.",
       specs: {
-        Fabric: "Add actual fabric",
-        Neckline: "Add neckline",
+        Fabric: "Chanderi Cotton",
+        Neckline: "V-Neck",
         Sleeve: "Add sleeve type",
         Pattern: "Embroidered",
-        Color: "Ivory",
+        Color: "Black",
         Occasion: "Festive"
       }
     },
     {
       id: "eth-003",
-      name: "Pink Festive Suit Set",
+      name: "Anarkali dress-3",
       brand: "HOUSE OF CHANDU",
       category: "Ethnic Wear",
-      price: 4999,
-      oldPrice: null,
+      price: 2299,
+      oldPrice: 6499,
       badge: "NEW",
-      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
-      available: ["S", "M", "L", "XL", "2XL"],
-      images: [
-        ""
-      ],
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: ["images/Red Maroon-1.jpeg"],
       description: "A bright festive look for celebrations. Replace this placeholder description with accurate product information.",
       specs: {
-        Fabric: "Add actual fabric",
-        Neckline: "Add neckline",
+        Fabric: "Chanderi",
+        Neckline: "Round type",
         Sleeve: "Add sleeve type",
-        Pattern: "Embellished",
-        Color: "Pink",
-        Occasion: "Festive"
+        Pattern: "Embroidery",
+        Color: "Dark Pink",
+        Occasion: "Festive wear & party wear"
       }
     },
     {
       id: "eth-004",
-      name: "Green Embroidered Anarkali Set",
+      name: "Anarkali Set",
       brand: "HOUSE OF CHANDU",
       category: "Ethnic Wear",
-      price: 6999,
+      price: 1799,
       oldPrice: null,
       badge: "NEW",
-      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
-      available: ["XS", "S", "M", "L", "XL"],
+      sizes: ["XS", "S", "M", "L", "XL"],
+      available: ["M", "L", "XL"],
       images: [
-        ""
+        "images/Brown-1.jpeg",
+        "images/Brown-2.jpeg"
       ],
       description: "A statement ethnic silhouette for special occasions. Confirm colour, fabric and set contents before publishing.",
       specs: {
-        Fabric: "Add actual fabric",
-        Neckline: "Add neckline",
-        Sleeve: "Add sleeve type",
+        Fabric: "Chanderi",
+        Neckline: "Round neck",
+        Sleeve: "3/4",
         Pattern: "Embroidered",
-        Color: "Green",
-        Occasion: "Festive"
+        Color: "Brown",
+        Occasion: "Festive & party wear"
       }
     },
     {
       id: "west-001",
-      name: "Contemporary Tailored Look",
+      name: "CORD-SET",
       brand: "HOUSE OF CHANDU",
       category: "Western Wear",
-      price: 2499,
+      price: 999,
       oldPrice: null,
       badge: "NEW",
-      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
-      available: ["XS", "S", "M", "L", "XL"],
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
       images: [
-        ""
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
       ],
-      description: "A contemporary fashion placeholder. Replace with the actual product description.",
+      description: "Top and bottom included.",
       specs: {
-        Fabric: "Add actual fabric",
-        Fit: "Add fit",
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
         Sleeve: "Add sleeve type",
-        Pattern: "Solid / verify",
-        Color: "Verify colour",
+        Pattern: "Floral print",
+        Color: "White",
         Occasion: "Casual"
       }
     },
@@ -146,9 +147,7 @@ document.addEventListener("DOMContentLoaded", () => {
       badge: "",
       sizes: ["XS", "S", "M", "L", "XL", "2XL"],
       available: ["S", "M", "L", "XL"],
-      images: [
-        ""
-      ],
+      images: [],
       description: "An everyday style placeholder. Replace with verified fabric, fit and care information.",
       specs: {
         Fabric: "Add actual fabric",
@@ -169,9 +168,7 @@ document.addEventListener("DOMContentLoaded", () => {
       badge: "NEW",
       sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
       available: ["XS", "S", "M", "L", "XL"],
-      images: [
-        ""
-      ],
+      images: [],
       description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
       specs: {
         Fabric: "Add actual fabric",
@@ -308,6 +305,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const productGrid = $("productGrid");
   const listingTitle = $("listingTitle");
   const productCount = $("productCount");
+  const categoryTabs = $("categoryTabs");
   const detailSection = $("productDetailSection");
   const detailContainer = $("productDetail");
   const shopSection = $("shop");
@@ -323,7 +321,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const checkoutButton = $("checkoutButton");
   const customerOrderForm = $("customerOrderForm");
 
-  let activeCategory = "All";
+  let activeCategory = "Ethnic Wear";
+  let showAllForCategory = false;
   let currentProduct = null;
   let selectedSize = "";
   let selectedImage = "";
@@ -407,7 +406,6 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   cart = loadCart();
-
 
   /* =========================================
      FUNCTIONAL WISHLIST
@@ -514,39 +512,44 @@ document.addEventListener("DOMContentLoaded", () => {
 
     empty.hidden = savedProducts.length > 0;
 
-    list.innerHTML = savedProducts.map(product => `
-      <article class="wishlist-item">
-        <button
-          class="wishlist-product-open"
-          type="button"
-          data-wishlist-open="${escapeHTML(product.id)}"
-          aria-label="View ${escapeHTML(product.name)}"
-        >
-          <img
-            src="${escapeHTML(product.images[0])}"
-            alt="${escapeHTML(product.name)}"
-            loading="lazy"
-          >
-        </button>
+    list.innerHTML = savedProducts.map(product => {
+      const image = Array.isArray(product.images)
+        ? product.images.find(item => typeof item === "string" && item.trim())
+        : "";
 
-        <div class="wishlist-item-info">
-          <h3>${escapeHTML(product.name)}</h3>
-          <p>${money(product.price)}</p>
-
+      return `
+        <article class="wishlist-item">
           <button
-            class="wishlist-view-button"
+            class="wishlist-product-open"
             type="button"
             data-wishlist-open="${escapeHTML(product.id)}"
-          >View product ↗</button>
+            aria-label="View ${escapeHTML(product.name)}"
+          >
+            ${image
+              ? `<img src="${escapeHTML(image)}" alt="${escapeHTML(product.name)}" loading="lazy">`
+              : `<span class="wishlist-image-placeholder">Image coming soon</span>`
+            }
+          </button>
 
-          <button
-            class="wishlist-remove-button"
-            type="button"
-            data-wishlist-remove="${escapeHTML(product.id)}"
-          >Remove ♥</button>
-        </div>
-      </article>
-    `).join("");
+          <div class="wishlist-item-info">
+            <h3>${escapeHTML(product.name)}</h3>
+            <p>${money(product.price)}</p>
+
+            <button
+              class="wishlist-view-button"
+              type="button"
+              data-wishlist-open="${escapeHTML(product.id)}"
+            >View product ↗</button>
+
+            <button
+              class="wishlist-remove-button"
+              type="button"
+              data-wishlist-remove="${escapeHTML(product.id)}"
+            >Remove ♥</button>
+          </div>
+        </article>
+      `;
+    }).join("");
   }
 
   function openWishlist() {
@@ -558,11 +561,9 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     closeCart();
-
     panel.classList.add("open");
     panel.setAttribute("aria-hidden", "false");
     document.body.classList.add("wishlist-open");
-
     renderWishlist();
   }
 
@@ -578,98 +579,151 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /* =========================================
-     COLLECTION FILTERING AND PRODUCT RENDERING
+     COLLECTION FILTERING AND PRODUCT CARDS
   ========================================= */
 
+  const categoryNames = {
+    "Ethnic": "Ethnic Wear",
+    "Ethnic Wear": "Ethnic Wear",
+    "Western": "Western Wear",
+    "Western Wear": "Western Wear",
+    "Occasion": "Occasion Wear",
+    "Occasion Wear": "Occasion Wear",
+    "Everyday": "Everyday Wear",
+    "Everyday Wear": "Everyday Wear",
+    "Celebration": "Celebration Wear",
+    "Celebration Wear": "Celebration Wear",
+    "All": "All"
+  };
+
+  function renderProductCard(product) {
+    const firstImage = Array.isArray(product.images)
+      ? product.images.find(image =>
+          typeof image === "string" && image.trim()
+        )
+      : "";
+
+    const sizes = Array.isArray(product.sizes) ? product.sizes : [];
+    const selected = isWishlisted(product.id);
+
+    return `
+      <article
+        class="product-card"
+        data-product-id="${escapeHTML(product.id)}"
+        tabindex="0"
+        role="button"
+        aria-label="View ${escapeHTML(product.name)}"
+      >
+        <div class="product-image-wrap">
+          ${product.badge
+            ? `<span class="product-badge">${escapeHTML(product.badge)}</span>`
+            : ""
+          }
+
+          <button
+            class="product-heart ${selected ? "selected" : ""}"
+            type="button"
+            data-wishlist="${escapeHTML(product.id)}"
+            aria-label="Add to wishlist: ${escapeHTML(product.name)}"
+            aria-pressed="${selected}"
+          >${selected ? "♥" : "♡"}</button>
+
+          ${firstImage
+            ? `<img class="product-image" src="${escapeHTML(firstImage)}" alt="${escapeHTML(product.name)}" loading="lazy">`
+            : `<div class="product-image product-image-placeholder" role="img" aria-label="Image coming soon"></div>`
+          }
+        </div>
+
+        <div class="product-info">
+          <h3 class="product-name">${escapeHTML(product.name)}</h3>
+          <p class="product-brand">${escapeHTML(product.brand || "HOUSE OF CHANDU")}</p>
+
+          <p class="product-price">
+            ${money(product.price)}
+            ${product.oldPrice
+              ? `<span class="old-price">${money(product.oldPrice)}</span>`
+              : ""
+            }
+          </p>
+
+          <div class="product-sizes" aria-label="Product sizes">
+            ${sizes.map(size => `
+              <span class="product-size ${
+                product.available && product.available.includes(size)
+                  ? ""
+                  : "unavailable"
+              }">${escapeHTML(size)}</span>
+            `).join("")}
+          </div>
+        </div>
+      </article>
+    `;
+  }
+
   function setCategory(category, scroll = true) {
-    activeCategory = category;
+    const normalizedCategory = categoryNames[category] || category;
+    activeCategory = normalizedCategory;
 
-    document.querySelectorAll(".category-tab").forEach(button => {
-      button.classList.toggle(
-        "active",
-        button.dataset.category === category
-      );
-    });
+    const filteredProducts = normalizedCategory === "All"
+      ? products
+      : products.filter(product => product.category === normalizedCategory);
 
-    const filteredProducts = products.filter(product =>
-      category === "All" || product.category === category
-    );
+    if (categoryTabs) {
+      categoryTabs.querySelectorAll("[data-category]").forEach(button => {
+        const buttonCategory =
+          categoryNames[button.dataset.category] || button.dataset.category;
 
-    const shown = isAllProductsPage
-      ? filteredProducts
-      : filteredProducts.slice(0, 8);
+        button.classList.toggle(
+          "active",
+          buttonCategory === normalizedCategory
+        );
+
+        button.setAttribute(
+          "aria-pressed",
+          String(buttonCategory === normalizedCategory)
+        );
+      });
+    }
 
     if (listingTitle) {
-      listingTitle.innerHTML = category === "All"
-        ? (isAllProductsPage
-            ? "Explore all <em>pieces.</em>"
-            : "Shop all <em>pieces.</em>")
-        : `${escapeHTML(category)} <em>collection.</em>`;
+      listingTitle.textContent = normalizedCategory === "All"
+        ? "Shop All Pieces"
+        : normalizedCategory;
     }
 
     if (productCount) {
-      productCount.textContent = `${shown.length} styles`;
+      productCount.textContent = `${filteredProducts.length} styles`;
     }
 
     if (productGrid) {
-      productGrid.innerHTML = shown.map(product => `
-        <article
-          class="product-card"
-          data-product-id="${escapeHTML(product.id)}"
-          tabindex="0"
-          role="button"
-          aria-label="View ${escapeHTML(product.name)}"
-        >
-          <div class="product-image">
-            <img
-              src="${escapeHTML(product.images[0])}"
-              alt="${escapeHTML(product.name)}"
-              loading="lazy"
-            >
-
-            ${product.badge
-              ? `<span class="product-badge">${escapeHTML(product.badge)}</span>`
-              : ""
-            }
-
-            <button
-              class="product-heart"
-              data-wishlist="${escapeHTML(product.id)}"
-              aria-label="Add ${escapeHTML(product.name)} to wishlist"
-              aria-pressed="false"
-              type="button"
-            >♡</button>
+      if (normalizedCategory === "All") {
+        productGrid.innerHTML = `
+          <div class="category-empty-state">
+            <h3>Find your style.</h3>
+            <p>Select Ethnic, Western, Occasion, Everyday or Celebration to explore the collection.</p>
           </div>
+        `;
+      } else {
+        const visibleProducts = showAllForCategory
+          ? filteredProducts
+          : filteredProducts.slice(0, 4);
 
-          <div class="product-meta">
-            <h3 class="product-title">${escapeHTML(product.name)}</h3>
-            <p class="product-brand">${escapeHTML(product.brand)}</p>
-
-            <div class="product-price">
-              ${money(product.price)}
-              ${product.oldPrice
-                ? `<span class="old-price">${money(product.oldPrice)}</span>`
-                : ""
-              }
-            </div>
-
-            <div class="size-preview">
-              ${product.sizes.map(size =>
-                `<span class="size-chip">${escapeHTML(size)}</span>`
-              ).join("")}
-            </div>
-          </div>
-        </article>
-      `).join("");
-
-      updateWishlistButtons();
+        productGrid.innerHTML = visibleProducts
+          .map(renderProductCard)
+          .join("");
+      }
     }
 
-    const exploreMore = document.querySelector(".explore-more-wrap");
+    const exploreWrap = $("exploreMoreWrap");
 
-    if (exploreMore) {
-      exploreMore.hidden = isAllProductsPage;
+    if (exploreWrap) {
+      exploreWrap.hidden =
+        normalizedCategory === "All" ||
+        showAllForCategory ||
+        filteredProducts.length <= 4;
     }
+
+    updateWishlistButtons();
 
     if (scroll && shopSection) {
       shopSection.scrollIntoView({
@@ -678,6 +732,15 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     }
   }
+
+      const exploreMoreButton = document.getElementById("exploreMoreButton");
+
+    if (exploreMoreButton) {
+      exploreMoreButton.addEventListener("click", () => {
+        showAllForCategory = true;
+        setCategory(activeCategory, false);
+      });
+    }
 
   /* =========================================
      PRODUCT DETAILS
@@ -689,7 +752,11 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!currentProduct || !detailSection || !detailContainer) return;
 
     selectedSize = "";
-    selectedImage = currentProduct.images[0];
+    selectedImage = Array.isArray(currentProduct.images)
+      ? currentProduct.images.find(image =>
+          typeof image === "string" && image.trim()
+        ) || ""
+      : "";
 
     renderProductDetail();
     detailSection.hidden = false;
@@ -704,10 +771,20 @@ document.addEventListener("DOMContentLoaded", () => {
     const product = currentProduct;
     if (!product || !detailContainer) return;
 
+    const images = Array.isArray(product.images)
+      ? product.images.filter(image =>
+          typeof image === "string" && image.trim()
+        )
+      : [];
+
+    if (!selectedImage && images.length) {
+      selectedImage = images[0];
+    }
+
     detailContainer.innerHTML = `
       <div class="detail-gallery">
         <div class="detail-thumbnails">
-          ${product.images.map((image, index) => `
+          ${images.map((image, index) => `
             <button
               class="detail-thumb ${image === selectedImage ? "active" : ""}"
               data-image="${escapeHTML(image)}"
@@ -717,16 +794,17 @@ document.addEventListener("DOMContentLoaded", () => {
               <img
                 src="${escapeHTML(image)}"
                 alt="${escapeHTML(product.name)} view ${index + 1}"
+                loading="lazy"
               >
             </button>
           `).join("")}
         </div>
 
         <div class="detail-main-image">
-          <img
-            src="${escapeHTML(selectedImage)}"
-            alt="${escapeHTML(product.name)}"
-          >
+          ${selectedImage
+            ? `<img src="${escapeHTML(selectedImage)}" alt="${escapeHTML(product.name)}">`
+            : `<div class="detail-image-placeholder">Product image coming soon</div>`
+          }
         </div>
       </div>
 
@@ -750,11 +828,11 @@ document.addEventListener("DOMContentLoaded", () => {
         </div>
 
         <div class="size-options">
-          ${product.sizes.map(size => `
+          ${(product.sizes || []).map(size => `
             <button
               class="size-option ${selectedSize === size ? "selected" : ""}"
               data-size="${escapeHTML(size)}"
-              ${product.available.includes(size) ? "" : "disabled"}
+              ${product.available && product.available.includes(size) ? "" : "disabled"}
               type="button"
             >${escapeHTML(size)}</button>
           `).join("")}
@@ -781,102 +859,23 @@ document.addEventListener("DOMContentLoaded", () => {
           <span>Contact us for availability</span>
         </div>
 
-       
-      <h3 class="specifications-title">PRODUCT HIGHLIGHTS</h3>
+        <h3 class="specifications-title">PRODUCT HIGHLIGHTS</h3>
 
-      <div class="spec-grid">
-        <div class="spec-item">
-          <span>Fabric</span>
-          <strong>Chanderi Cotton</strong>
+        <div class="spec-grid">
+          ${Object.entries(product.specs || {}).map(([key, value]) => `
+            <div class="spec-item">
+              <span>${escapeHTML(key)}</span>
+              <strong>${escapeHTML(String(value))}</strong>
+            </div>
+          `).join("")}
         </div>
 
-        <div class="spec-item">
-          <span>Pattern</span>
-          <strong>Embroidery</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Brand</span>
-          <strong>House of Chandu</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Sizes Available</span>
-          <strong>L, XL, XXL</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Sleeve Length</span>
-          <strong>3/4 Sleeves</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Neck Design</span>
-          <strong>V-Neck</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Items Included</span>
-          <strong>3 Pieces — Kurta, Palazzo, Dupatta</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Dupatta Fabric</span>
-          <strong>Chanderi Cotton</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Bottom Type</span>
-          <strong>Palazzo</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Bottom Fabric</span>
-          <strong>Chanderi Cotton</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Top Type</span>
-          <strong>Kurta</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Top Pattern</span>
-          <strong>Embroidery</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Colour</span>
-          <strong>White and Pink</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Style</span>
-          <strong>Anarkali</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Ideal For</span>
-          <strong>Women</strong>
-        </div>
-
-        <div class="spec-item">
-          <span>Occasion</span>
-          <strong>Festive Wear and Parties</strong>
+        <div class="product-description">
+          <h3>Product Description</h3>
+          <p>${escapeHTML(product.description || "Product description coming soon.")}</p>
         </div>
       </div>
-
-      <div class="product-description">
-        <h3>Product Description</h3>
-        <p>
-          Discover elegant ethnic fashion from House of Chandu.
-          This embroidered outfit features a graceful silhouette,
-          suitable for festive occasions and parties. Product
-          details will be updated with verified information soon.
-        </p>
-      </div> 
-      `;
-
+    `;
 
     detailContainer.querySelectorAll("[data-image]").forEach(button => {
       button.addEventListener("click", () => {
@@ -918,7 +917,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-    /* =========================================
+  /* =========================================
      ADD PRODUCT TO BAG
   ========================================= */
 
@@ -991,13 +990,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
     cartItemsElement.innerHTML = cart.map(item => {
       const product = getProduct(item.id);
+      const image = Array.isArray(product.images)
+        ? product.images.find(value =>
+            typeof value === "string" && value.trim()
+          )
+        : "";
 
       return `
         <div class="cart-line">
-          <img
-            src="${escapeHTML(product.images[0])}"
-            alt="${escapeHTML(product.name)}"
-          >
+          ${image
+            ? `<img src="${escapeHTML(image)}" alt="${escapeHTML(product.name)}">`
+            : `<div class="cart-image-placeholder"></div>`
+          }
 
           <div>
             <h3>${escapeHTML(product.name)}</h3>
@@ -1164,12 +1168,24 @@ document.addEventListener("DOMContentLoaded", () => {
 
   bind("categoryTabs", "click", event => {
     const button = event.target.closest("[data-category]");
-    if (button) setCategory(button.dataset.category, false);
+
+    if (button) {
+      showAllForCategory = false;
+      setCategory(button.dataset.category, false);
+    }
   });
 
   document.querySelectorAll("[data-open-category]").forEach(button => {
     button.addEventListener("click", () => {
+      showAllForCategory = false;
       setCategory(button.dataset.openCategory);
+
+      if (shopSection) {
+        shopSection.scrollIntoView({
+          behavior: "smooth",
+          block: "start"
+        });
+      }
     });
   });
 
@@ -1189,7 +1205,10 @@ document.addEventListener("DOMContentLoaded", () => {
       }
 
       const card = event.target.closest("[data-product-id]");
-      if (card) openProduct(card.dataset.productId);
+
+      if (card) {
+        openProduct(card.dataset.productId);
+      }
     });
 
     productGrid.addEventListener("keydown", event => {
@@ -1327,7 +1346,7 @@ document.addEventListener("DOMContentLoaded", () => {
     );
   });
 
-    /* =========================================
+  /* =========================================
      HERO SLIDER
   ========================================= */
 
@@ -1428,7 +1447,13 @@ document.addEventListener("DOMContentLoaded", () => {
     currentYear.textContent = new Date().getFullYear();
   }
 
-  setCategory("All", false);
+  // Start with Ethnic Wear and show up to four products.
+  showAllForCategory = false;
+
+  if (productGrid && categoryTabs) {
+    setCategory("Ethnic Wear", false);
+  }
+
   renderCart();
   updateWishlistButtons();
   renderWishlist();
