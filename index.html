@@ -257,7 +257,6 @@
 
         <div class="listing-toolbar">
           <div class="category-tabs" id="categoryTabs">
-            <button class="category-tab active" data-category="All">All products</button>
             <button class="category-tab" data-category="Ethnic Wear">Ethnic</button>
             <button class="category-tab" data-category="Western Wear">Western</button>
             <button class="category-tab" data-category="Occasion Wear">Occasion</button>
@@ -270,17 +269,18 @@
 
         <div class="product-grid" id="productGrid"></div>
 
-        <div class="explore-more-wrap">
-          <a href="all-products.html" class="explore-more-btn">
+       
+        <div class="explore-more-wrap" id="exploreMoreWrap">
+          <button
+            type="button"
+            class="explore-more-btn"
+            id="exploreMoreButton"
+          >
             Explore More
             <span aria-hidden="true">↗</span>
-          </a>
+          </button>
         </div>
 
-        <p class="demo-note">
-          Demo catalogue: names, prices, images and stock shown here are examples only.
-          Replace them with your actual inventory before publishing.
-        </p>
 
       </div>
     </section>
