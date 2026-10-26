@@ -112,6 +112,490 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     },
     {
+      id: "eth-005",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-006",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-007",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-008",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-009",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-010",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-011",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-012",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-013",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-014",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-015",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-016",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-017",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-018",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-019",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-020",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-021",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-022",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-023",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-024",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+    {
+      id: "eth-025",
+      name: "Chanderi Cotton Embroidered Kurta Set",
+      brand: "HOUSE OF CHANDU",
+      category: "Ethnic Wear",
+      price: 1499,
+      badge: "NEW",
+      sizes: ["L", "XL", "2XL"],
+      available: ["L", "XL", "2XL"],
+      images: [
+        "images/anarkali-white-pink-01.jpeg",
+        "images/anarkali-white-pink-02.jpeg"
+      ],
+      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      specs: {
+        Fabric: "Chanderi Cotton",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Embroidered",
+        Color: "Pink",
+        Occasion: "Festive"
+      }
+    },
+
+    {
       id: "west-001",
       name: "CORD-SET",
       brand: "HOUSE OF CHANDU",
@@ -147,7 +631,10 @@ document.addEventListener("DOMContentLoaded", () => {
       badge: "",
       sizes: ["XS", "S", "M", "L", "XL", "2XL"],
       available: ["S", "M", "L", "XL"],
-      images: [],
+      images: ["images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"],
       description: "An everyday style placeholder. Replace with verified fabric, fit and care information.",
       specs: {
         Fabric: "Add actual fabric",
@@ -159,6 +646,553 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     },
     {
+      id: "west-003",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-004",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-005",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-006",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-007",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-008",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-009",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-010",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-011",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-012",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-013",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-014",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-015",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-016",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-017",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-018",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-019",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-020",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-021",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-022",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+    {
+      id: "west-023",
+      name: "CORD-SET",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 999,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL", "2XL"],
+      images: [
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
+        "images/look-3.jpeg",
+        "images/Look-4.jpeg"
+      ],
+      description: "Top and bottom included.",
+      specs: {
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "Add sleeve type",
+        Pattern: "Floral print",
+        Color: "White",
+        Occasion: "Casual"
+      }
+    },
+
+    {
       id: "occ-001",
       name: "Red Occasion Dress",
       brand: "HOUSE OF CHANDU",
@@ -168,7 +1202,9 @@ document.addEventListener("DOMContentLoaded", () => {
       badge: "NEW",
       sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
       available: ["XS", "S", "M", "L", "XL"],
-      images: [],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
       description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
       specs: {
         Fabric: "Add actual fabric",
@@ -202,6 +1238,467 @@ document.addEventListener("DOMContentLoaded", () => {
         Occasion: "Evening"
       }
     },
+    {
+      id: "occ-003",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-004",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-005",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-006",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-007",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-008",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-009",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-010",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-011",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-012",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-013",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-014",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-015",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-016",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-017",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-018",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-019",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-020",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-021",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+    {
+      id: "occ-022",
+      name: "Red Occasion Dress",
+      brand: "HOUSE OF CHANDU",
+      category: "Occasion Wear",
+      price: 3299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "An occasion-wear placeholder. Update with the correct fabric, lining, fit and garment measurements.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Red (verify)",
+        Occasion: "Party"
+      }
+    },
+
     {
       id: "day-001",
       name: "Relaxed Everyday Outfit",
@@ -249,6 +1746,492 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     },
     {
+      id: "day-003",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-004",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+
+    {
+      id: "day-005",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-006",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-007",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-008",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-009",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+
+    {
+      id: "day-010",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-011",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-012",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-013",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-014",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-015",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-016",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-017",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-018",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-019",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-020",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-021",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-022",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+    {
+      id: "day-023",
+      name: "Relaxed Everyday Outfit",
+      brand: "HOUSE OF CHANDU",
+      category: "Everyday Wear",
+      price: 1599,
+      oldPrice: null,
+      badge: "",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Fit: "Relaxed (verify)",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Verify colour",
+        Occasion: "Everyday"
+      }
+    },
+
+    {
       id: "cel-001",
       name: "Celebration Blue Ensemble",
       brand: "HOUSE OF CHANDU",
@@ -259,7 +2242,7 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
       available: ["XS", "S", "M", "L", "XL"],
       images: [
-        "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?auto=format&fit=crop&w=1000&q=85"
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
       ],
       description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
       specs: {
@@ -293,7 +2276,468 @@ document.addEventListener("DOMContentLoaded", () => {
         Color: "Verify colour",
         Occasion: "Celebration"
       }
-    }
+    },
+    {
+      id: "cel-003",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-004",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+       "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-005",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-006",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+       "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-007",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-008",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-009",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-010",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-011",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+       "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-012",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-013",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+       "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-014",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-015",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-016",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-017",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-018",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-019",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-020",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+       "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-021",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+       "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+    {
+      id: "cel-022",
+      name: "Celebration Blue Ensemble",
+      brand: "HOUSE OF CHANDU",
+      category: "Celebration Wear",
+      price: 4299,
+      oldPrice: null,
+      badge: "NEW",
+      sizes: ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+      available: ["XS", "S", "M", "L", "XL"],
+      images: [
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+      ],
+      description: "A celebration-style placeholder. Confirm product composition and specifications before use.",
+      specs: {
+        Fabric: "Add actual fabric",
+        Neckline: "Add neckline",
+        Sleeve: "Add sleeve type",
+        Pattern: "Verify pattern",
+        Color: "Blue (verify)",
+        Occasion: "Celebration"
+      }
+    },
+
   ];
 
   /* =========================================
