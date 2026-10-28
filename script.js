@@ -607,8 +607,8 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: ["M", "L", "XL", "2XL"],
       available: ["M", "L", "XL", "2XL"],
       images: [
-        "images/White cord set-1.jpeg",
-        "images/White cord set-2.jpeg",
+        "images/white cord set-1.jpeg",
+        "images/white cord set-2.jpeg",
         "images/look-3.jpeg",
         "images/Look-4.jpeg",
       ],
