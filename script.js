@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", () => {
       specs: {
         Fabric: "Chanderi",
         Neckline: "Round type",
-        Sleeve: "Add sleeve type",
+        Sleeve: "3/4",
         Pattern: "Embroidery",
         Color: "Dark Pink",
         Occasion: "Festive wear & party wear"
@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", () => {
       brand: "HOUSE OF CHANDU",
       category: "Ethnic Wear",
       price: 1799,
-      oldPrice: null,
+      oldPrice: 2499,
       badge: "NEW",
       sizes: ["XS", "S", "M", "L", "XL"],
       available: ["M", "L", "XL"],
@@ -113,71 +113,72 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       id: "eth-005",
-      name: "Chanderi Cotton Embroidered Kurta Set",
+      name: "Silk Chanderi Embroidered Anarkali Dress",
       brand: "HOUSE OF CHANDU",
       category: "Ethnic Wear",
-      price: 1499,
+      price: 1999,
       badge: "NEW",
-      sizes: ["L", "XL", "2XL"],
-      available: ["L", "XL", "2XL"],
+      sizes: ["M","2XL"],
+      available: ["M","2XL"],
       images: [
-        "images/anarkali-white-pink-01.jpeg",
-        "images/anarkali-white-pink-02.jpeg"
+        "images/H-1.jpeg",
+        "images/H-2.jpeg",
       ],
-      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      description: "Elegant 3-piece kurta set with embroidered Chanderi cotton, perfect for festive occasions.”“Elegant 3-piece kurta set with embroidered Chanderi cotton, perfect for festive occasions.",
       specs: {
         Fabric: "Chanderi Cotton",
-        Neckline: "Add neckline",
-        Sleeve: "Add sleeve type",
+        Neckline: "V-neck",
+        Sleeve: "3/4",
         Pattern: "Embroidered",
-        Color: "Pink",
-        Occasion: "Festive"
+        Color: "Yellow",
+        Occasion: "Festive wear & party wear"
       }
     },
     {
       id: "eth-006",
-      name: "Chanderi Cotton Embroidered Kurta Set",
+      name: "Peacock Green Chanderi Embroidered Anarkali Suit Set",
       brand: "HOUSE OF CHANDU",
       category: "Ethnic Wear",
-      price: 1499,
+      price: 1999,
       badge: "NEW",
-      sizes: ["L", "XL", "2XL"],
-      available: ["L", "XL", "2XL"],
+      sizes: ["M","L", "XL",],
+      available: ["M","L", "XL", ],
       images: [
-        "images/anarkali-white-pink-01.jpeg",
-        "images/anarkali-white-pink-02.jpeg"
+        "images/G-1.png",
+        "images/G-2.png",
       ],
-      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      description: "Elegant embroidered Chanderi cotton kurta set, perfect for festive and party wear",
       specs: {
         Fabric: "Chanderi Cotton",
-        Neckline: "Add neckline",
-        Sleeve: "Add sleeve type",
+        Neckline: "V-Neck",
+        Sleeve: "3/4",
         Pattern: "Embroidered",
-        Color: "Pink",
-        Occasion: "Festive"
+        Color: "Peacock Green",
+        Occasion: "Festive party wear Traditional Wear"
       }
     },
     {
       id: "eth-007",
-      name: "Chanderi Cotton Embroidered Kurta Set",
+      name: "Green Chanderi Embroidered Anarkali Suit Set",
       brand: "HOUSE OF CHANDU",
       category: "Ethnic Wear",
-      price: 1499,
+      price: 1999,
       badge: "NEW",
-      sizes: ["L", "XL", "2XL"],
-      available: ["L", "XL", "2XL"],
+      sizes: ["M","L"],
+      available: ["M","L"],
       images: [
-        "images/anarkali-white-pink-01.jpeg",
-        "images/anarkali-white-pink-02.jpeg"
+        "images/D-1.png",
+        "images/D-2.png",
+        "images/D-3.png",
       ],
-      description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
+      description: "Elegant olive green Anarkali suit with beautiful pink floral detailing, perfect for festive occasions and special celebrations..",
       specs: {
         Fabric: "Chanderi Cotton",
-        Neckline: "Add neckline",
-        Sleeve: "Add sleeve type",
+        Neckline: "V-Neck",
+        Sleeve: "3/4 type",
         Pattern: "Embroidered",
-        Color: "Pink",
-        Occasion: "Festive"
+        Color: "Green",
+        Occasion: "Festive,partywear,traditional wear"
       }
     },
     {
@@ -609,13 +610,13 @@ document.addEventListener("DOMContentLoaded", () => {
         "images/White cord set-1.jpeg",
         "images/White cord set-2.jpeg",
         "images/look-3.jpeg",
-        "images/Look-4.jpeg"
+        "images/Look-4.jpeg",
       ],
-      description: "Top and bottom included.",
+      description:"Top and bottom included.",
       specs: {
         Fabric: "Viscose Rayon",
         Fit: "Regular",
-        Sleeve: "Add sleeve type",
+        Sleeve: "3/4",
         Pattern: "Floral print",
         Color: "White",
         Occasion: "Casual"
@@ -623,52 +624,55 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       id: "west-002",
-      name: "Everyday Blue Statement Outfit",
+      name: "Cord SET",
       brand: "HOUSE OF CHANDU",
       category: "Western Wear",
-      price: 1899,
-      oldPrice: null,
-      badge: "",
-      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
-      available: ["S", "M", "L", "XL"],
-      images: ["images/White cord set-1.jpeg",
-        "images/White cord set-2.jpeg",
-        "images/look-3.jpeg",
-        "images/Look-4.jpeg"],
-      description: "An everyday style placeholder. Replace with verified fabric, fit and care information.",
+      price: 999,
+      oldPrice:1999,
+      badge: "NEW",
+      sizes: [ "M", "L", "XL", "2XL"],
+      available: [ "M", "L", "XL","2XL"],
+      images:[
+        "images/B-1.png",
+        "images/B-2.png",
+        "images/B-3.png"
+      ],
+        
+      description: "Co-ord Set Cost: ₹999 Brand: House of Chandu Style Code: Women Co-ord Set,Top and bottom included.",
       specs: {
-        Fabric: "Add actual fabric",
-        Fit: "Add fit",
-        Sleeve: "Add sleeve type",
-        Pattern: "Verify pattern",
-        Color: "Blue (verify)",
+        Fabric: "Viscose Rayon",
+        Fit: "Regular",
+        Sleeve: "3/4",
+        Pattern: "Floral Print",
+        Color: "Black",
         Occasion: "Everyday"
       }
     },
     {
       id: "west-003",
-      name: "CORD-SET",
+      name: "Women Co-ord Set",
       brand: "HOUSE OF CHANDU",
       category: "Western Wear",
       price: 999,
       oldPrice: null,
       badge: "NEW",
-      sizes: ["M", "L", "XL", "2XL"],
-      available: ["M", "L", "XL", "2XL"],
+      sizes: ["M", "L", "XL",],
+      available: ["M", "L", "XL"],
       images: [
-        "images/White cord set-1.jpeg",
-        "images/White cord set-2.jpeg",
-        "images/look-3.jpeg",
-        "images/Look-4.jpeg"
+        "images/F-1.png",
+        "images/F-2.png",
+        "images/F-3.png",
+        "images/F-5.png",
+        "images/F-4.png",
       ],
       description: "Top and bottom included.",
       specs: {
         Fabric: "Viscose Rayon",
         Fit: "Regular",
-        Sleeve: "Add sleeve type",
+        Sleeve: "3/4",
         Pattern: "Floral print",
-        Color: "White",
-        Occasion: "Casual"
+        Color: "Lavender",
+        Occasion: "Casual & Every Daywear"
       }
     },
     {
