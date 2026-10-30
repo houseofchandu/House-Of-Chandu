@@ -33,13 +33,13 @@ document.addEventListener("DOMContentLoaded", () => {
       available: ["L", "XL", "2XL"],
       images: [
         "images/anarkali-white-pink-01.jpeg",
-        "images/anarkali-white-pink-02.jpeg"
+        "images/anarkali-white-pink-02.jpeg",
       ],
       description: "An occasion-ready ethnic style with an elegant silhouette. Replace this sample description with the exact fabric, fit and care details for your product.",
       specs: {
         Fabric: "Chanderi Cotton",
-        Neckline: "Add neckline",
-        Sleeve: "Add sleeve type",
+        Neckline: "V-Neck",
+        Sleeve: "3/4",
         Pattern: "Embroidered",
         Color: "Pink",
         Occasion: "Festive"
@@ -53,14 +53,14 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 1499,
       oldPrice: 1499,
       badge: "NEW",
-      sizes: ["M", "XL"],
-      available: ["M", "L", "XL"],
+      sizes: ["M", "XL","XXL"],
+      available: ["M", "L","XL","XXL"],
       images: ["images/Blackdress.png"],
-      description: "A graceful festive look. Update with the product's verified materials and details.",
+      description: "Elegant black embroidered Anarkali kurta set with colourful detailing and a beautifully designed dupatta. Perfect for festive and special occasions..",
       specs: {
         Fabric: "Chanderi Cotton",
         Neckline: "V-Neck",
-        Sleeve: "Add sleeve type",
+        Sleeve: "3/4",
         Pattern: "Embroidered",
         Color: "Black",
         Occasion: "Festive"
@@ -101,7 +101,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "images/Brown-1.jpeg",
         "images/Brown-2.jpeg"
       ],
-      description: "A statement ethnic silhouette for special occasions. Confirm colour, fabric and set contents before publishing.",
+      description: "Elegant chocolate brown embroidered kurta set with matching pants and a beautifully detailed dupatta. Perfect for festive and traditional occasions. .",
       specs: {
         Fabric: "Chanderi",
         Neckline: "Round neck",
@@ -141,8 +141,8 @@ document.addEventListener("DOMContentLoaded", () => {
       category: "Ethnic Wear",
       price: 1999,
       badge: "NEW",
-      sizes: ["M","L", "XL",],
-      available: ["M","L", "XL", ],
+      sizes: ["M","L", "XXL",],
+      available: ["M","L", "XXL", ],
       images: [
         "images/G-1.png",
         "images/G-2.png",
@@ -607,8 +607,8 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: ["M", "L", "XL", "2XL"],
       available: ["M", "L", "XL", "2XL"],
       images: [
-        "images/white cord set-1.jpeg",
-        "images/white cord set-2.jpeg",
+        "images/White cord set-1.jpeg",
+        "images/White cord set-2.jpeg",
         "images/look-3.jpeg",
         "images/Look-4.jpeg",
       ],
