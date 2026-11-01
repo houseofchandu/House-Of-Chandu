@@ -103,70 +103,54 @@
 
       <div class="hero-slider" id="heroSlider">
 
-        <article class="hero-slide active">
-          <img
-            src="images/hero-01.png"
-            alt="Ethnic fashion inspiration"
-          >
-          <div class="slide-caption">
-            <small>01 / 05</small>
-            <strong>Ethnic elegance</strong>
-          </div>
-        </article>
+  <!-- Slide 1: Ethnic -->
+  <article class="hero-slide active">
+    <img
+      src="images/hero-01.png"
+      alt="Ethnic fashion inspiration"
+    >
+    <div class="slide-caption">
+      <small>01 / 03</small>
+      <strong>Ethnic elegance</strong>
+    </div>
+  </article>
 
-        <article class="hero-slide">
-          <img
-            src="https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=85"
-            alt="Modern women's fashion"
-          >
-          <div class="slide-caption">
-            <small>02 / 05</small>
-            <strong>Modern classics</strong>
-          </div>
-        </article>
+  <!-- Slide 2: Western -->
+  <article class="hero-slide">
+    <img
+      src="images/hero-02.png"
+      alt="Modern women's fashion"
+    >
+    <div class="slide-caption">
+      <small>02 / 03</small>
+      <strong>Modern classics</strong>
+    </div>
+  </article>
 
-        <article class="hero-slide">
-          <img
-            src="https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1200&q=85"
-            alt="Occasion dress inspiration"
-          >
-          <div class="slide-caption">
-            <small>03 / 05</small>
-            <strong>Celebration edit</strong>
-          </div>
-        </article>
+  <!-- Slide 3: Everyday -->
+  <article class="hero-slide">
+    <img
+      src="images/hero-03.png"
+      alt="Everyday women's fashion"
+    >
+    <div class="slide-caption">
+      <small>03 / 03</small>
+      <strong>Everyday ease</strong>
+    </div>
+  </article>
 
-        <article class="hero-slide">
-          <img
-            src="https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=1200&q=85"
-            alt="Contemporary fashion"
-          >
-          <div class="slide-caption">
-            <small>04 / 05</small>
-            <strong>Everyday ease</strong>
-          </div>
-        </article>
+  <!-- Slider Controls -->
+  <div class="slider-controls">
+    <button id="prevSlide" type="button" aria-label="Previous slide">←</button>
 
-        <article class="hero-slide">
-          <img
-            src="https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1200&q=85"
-            alt="Statement fashion"
-          >
-          <div class="slide-caption">
-            <small>05 / 05</small>
-            <strong>The occasion edit</strong>
-          </div>
-        </article>
+    <div class="slider-progress">
+      <span id="sliderProgress"></span>
+    </div>
 
-        <div class="slider-controls">
-          <button id="prevSlide" type="button" aria-label="Previous slide">←</button>
-          <div class="slider-progress">
-            <span id="sliderProgress"></span>
-          </div>
-          <button id="nextSlide" type="button" aria-label="Next slide">→</button>
-        </div>
+    <button id="nextSlide" type="button" aria-label="Next slide">→</button>
+  </div>
 
-      </div>
+</div>
     </section>
 
 
@@ -197,7 +181,7 @@
         </button>
 
         <button class="collection-card" data-open-category="Western Wear">
-          <img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=85" alt="">
+          <img src="images/collection-02.png" alt="">
           <span class="collection-number">02</span>
           <span class="collection-label">
             <small>EVERYDAY STATEMENT</small>
@@ -206,32 +190,12 @@
           </span>
         </button>
 
-        <button class="collection-card" data-open-category="Occasion Wear">
-          <img src="https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=85" alt="">
-          <span class="collection-number">03</span>
-          <span class="collection-label">
-            <small>MADE FOR THE MOMENT</small>
-            <strong>Occasion Wear</strong>
-            <b>Shop collection ↗</b>
-          </span>
-        </button>
-
         <button class="collection-card" data-open-category="Everyday Wear">
-          <img src="https://images.unsplash.com/photo-1485968579580-b6d095142e6e?auto=format&fit=crop&w=900&q=85" alt="">
-          <span class="collection-number">04</span>
+          <img src="images/collection-03.png" alt="">
+          <span class="collection-number">03</span>
           <span class="collection-label">
             <small>COMFORT MEETS STYLE</small>
             <strong>Everyday Wear</strong>
-            <b>Shop collection ↗</b>
-          </span>
-        </button>
-
-        <button class="collection-card collection-wide" data-open-category="Celebration Wear">
-          <img src="https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=900&q=85" alt="">
-          <span class="collection-number">05</span>
-          <span class="collection-label">
-            <small>YOUR SPECIAL DAYS</small>
-            <strong>Celebration Wear</strong>
             <b>Shop collection ↗</b>
           </span>
         </button>
@@ -259,9 +223,7 @@
           <div class="category-tabs" id="categoryTabs">
             <button class="category-tab" data-category="Ethnic Wear">Ethnic</button>
             <button class="category-tab" data-category="Western Wear">Western</button>
-            <button class="category-tab" data-category="Occasion Wear">Occasion</button>
             <button class="category-tab" data-category="Everyday Wear">Everyday</button>
-            <button class="category-tab" data-category="Celebration Wear">Celebration</button>
           </div>
 
           <span id="productCount" class="product-count"></span>
