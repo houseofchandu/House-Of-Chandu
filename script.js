@@ -606,8 +606,8 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: ["M", "L", "XL", "2XL"],
       available: ["M", "L", "XL", "2XL"],
       images: [
-        "images/White cord set-1.jpeg",
-        "images/look-3.jpeg",
+        "images/white cord set-1.jpeg",
+        "images/Look-3.jpeg",
         "images/Look-4.jpeg",
       ],
       description:"Top and bottom included,Co-ord Set Cost: ₹999 Brand: House of Chandu Style Code: Women Co-ord Set,Top and bottom included,comes With collar Neck ",
@@ -1258,7 +1258,7 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: [ "M", "L",  "2XL"],
       available: ["M", "L", "2XL"],
       images: [
-        "images/k-1.jpeg",
+        "images/K-1.jpeg",
         "images/K-2.jpeg",
         "images/K-2.jpeg",
         "images/K-3.jpeg",
