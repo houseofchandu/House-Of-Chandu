@@ -3333,3 +3333,417 @@ body.wishlist-open {
   background: var(--ink, #292321);
   color: #fff;
 }
+
+
+/* =========================================
+   HOUSE OF CHANDU — MOBILE RESPONSIVE
+   Desktop layout remains unchanged
+========================================= */
+
+/* TABLETS */
+@media (max-width: 760px) {
+
+  :root {
+    --page-gutter: 18px;
+    --section-space: 55px;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+
+  /* HEADER */
+  .header {
+    grid-template-columns: minmax(0, 1fr) auto auto;
+    gap: 8px;
+    min-height: 70px;
+    padding: 10px 4%;
+  }
+
+  .site-logo {
+    width: 38px;
+    height: 38px;
+    flex-basis: 38px;
+  }
+
+  .logo-title {
+    font-size: 16px;
+  }
+
+  .logo-subtitle {
+    font-size: 7px;
+  }
+
+  .menu-toggle {
+    display: flex;
+  }
+
+  .header nav,
+  #mainNav {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    display: none;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    padding: 12px 20px;
+    background: var(--paper);
+    border-top: 1px solid var(--line);
+    box-shadow: var(--shadow-soft);
+  }
+
+  #mainNav.open {
+    display: flex;
+  }
+
+  #mainNav a {
+    padding: 15px 5px;
+    border-bottom: 1px solid var(--line);
+    font-size: 13px;
+  }
+
+  .header-actions {
+    gap: 5px;
+  }
+
+  .wishlist-trigger,
+  .cart-trigger {
+    padding: 8px;
+    font-size: 10px;
+  }
+
+  /* HERO */
+  .hero {
+    grid-template-columns: 1fr;
+    min-height: auto;
+  }
+
+  .hero-copy {
+    padding: 55px 7% 35px;
+  }
+
+  .hero h1 {
+    font-size: clamp(42px, 10vw, 65px);
+  }
+
+  .hero-text {
+    max-width: 420px;
+    font-size: 13px;
+    line-height: 1.8;
+  }
+
+  .hero-slider {
+    width: 100%;
+    height: 480px;
+    min-height: 0;
+  }
+
+  .hero-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  /* SECTIONS */
+  .section {
+    padding: 55px 5%;
+  }
+
+  .section-heading h2 {
+    font-size: clamp(30px, 7vw, 42px);
+  }
+
+  /* COLLECTIONS */
+  .collection-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+
+  .collection-card,
+  .collection-card.collection-wide {
+    height: 300px;
+  }
+
+  .collection-card:first-child,
+  .collection-card:last-child {
+    height: 340px;
+  }
+
+  .collection-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .collection-label strong {
+    font-size: 19px;
+  }
+
+  /* CATEGORY TABS */
+  .category-tabs {
+    display: flex;
+    gap: 9px;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding: 5px 0 12px;
+    scrollbar-width: none;
+  }
+
+  .category-tabs::-webkit-scrollbar {
+    display: none;
+  }
+
+  .category-tab {
+    flex: 0 0 auto;
+  }
+
+  /* PRODUCT GRID */
+  .product-grid,
+  #productGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 25px 12px;
+  }
+
+  .product-image {
+    aspect-ratio: 3 / 4;
+  }
+
+  .product-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .product-title,
+  .product-name {
+    font-size: 13px;
+    line-height: 1.4;
+  }
+
+  .product-price {
+    font-size: 13px;
+  }
+
+  .product-heart {
+    width: 34px;
+    height: 34px;
+  }
+
+  /* PRODUCT DETAILS */
+  .product-detail {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+
+  .detail-gallery {
+    grid-template-columns: 58px minmax(0, 1fr);
+    gap: 10px;
+  }
+
+  .detail-thumb {
+    width: 58px;
+    height: 76px;
+  }
+
+  .detail-main-image {
+    width: 100%;
+    height: auto;
+    max-height: 620px;
+    object-fit: contain;
+  }
+
+  .detail-title {
+    font-size: 30px;
+  }
+
+  /* STORY */
+  .story-section {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+
+  /* CONTACT */
+  .contact-section {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+
+  /* FOOTER */
+  .footer-top {
+    flex-wrap: wrap;
+  }
+
+  .footer-top > p {
+    order: 3;
+    width: 100%;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  /* SHOPPING BAG */
+  .cart-drawer {
+    width: 100%;
+    max-width: 100%;
+    padding: 18px;
+  }
+
+  .cart-line {
+    grid-template-columns: 65px minmax(0, 1fr);
+    gap: 12px;
+  }
+
+  .cart-line img {
+    width: 65px;
+    height: 85px;
+    object-fit: cover;
+  }
+
+  .remove-line {
+    grid-column: 2;
+    justify-self: start;
+  }
+
+  /* WISHLIST */
+  .wishlist-panel {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  /* CHECKOUT FORM */
+  #customerOrderForm {
+    width: 100%;
+  }
+
+  #customerOrderForm input,
+  #customerOrderForm textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  #customerOrderForm button[type="submit"] {
+    width: 100%;
+    min-height: 50px;
+  }
+}
+
+/* SMALL PHONES */
+@media (max-width: 480px) {
+
+  .header {
+    gap: 5px;
+    padding: 9px 3%;
+  }
+
+  .site-logo {
+    width: 32px;
+    height: 32px;
+    flex-basis: 32px;
+  }
+
+  .logo-title {
+    font-size: 13px;
+  }
+
+  .logo-subtitle {
+    font-size: 6px;
+    letter-spacing: 0.08em;
+  }
+
+  .wishlist-trigger,
+  .cart-trigger {
+    padding: 7px 6px;
+    font-size: 9px;
+  }
+
+  .hero-copy {
+    padding: 42px 6% 28px;
+  }
+
+  .hero-slider {
+    height: 390px;
+  }
+
+  .collection-card,
+  .collection-card.collection-wide {
+    height: 260px;
+  }
+
+  .collection-card:first-child,
+  .collection-card:last-child {
+    height: 300px;
+  }
+
+  .collection-label {
+    left: 10px;
+    bottom: 12px;
+  }
+
+  .collection-label strong {
+    font-size: 16px;
+  }
+
+  .product-grid,
+  #productGrid {
+    gap: 22px 9px;
+  }
+
+  .product-title,
+  .product-name {
+    font-size: 11px;
+  }
+
+  .product-price {
+    font-size: 11px;
+  }
+
+  .detail-gallery {
+    grid-template-columns: 48px minmax(0, 1fr);
+  }
+
+  .detail-thumb {
+    width: 48px;
+    height: 65px;
+  }
+
+  .cart-drawer {
+    padding: 15px;
+  }
+}
+
+/* VERY SMALL PHONES */
+@media (max-width: 360px) {
+
+  .brand > span,
+  .logo-title {
+    font-size: 12px;
+  }
+
+  .header {
+    gap: 4px;
+  }
+
+  .wishlist-trigger,
+  .cart-trigger {
+    padding: 6px 4px;
+    font-size: 8px;
+  }
+
+  .hero-slider {
+    height: 340px;
+  }
+
+  .collection-card,
+  .collection-card.collection-wide {
+    height: 235px;
+  }
+
+  .collection-label strong {
+    font-size: 14px;
+  }
+}
