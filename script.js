@@ -607,6 +607,7 @@ document.addEventListener("DOMContentLoaded", () => {
       available: ["M", "L", "XL", "2XL"],
       images: [
         "images/white cord set-1.jpeg",
+        "images/white cord set-2 back.jpeg"
         "images/Look-3.jpeg",
         "images/Look-4.jpeg",
       ],
@@ -1154,7 +1155,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "images/I-1.jpeg",
         "images/I-2.jpeg",
         "images/I-3.jpeg",
-        "images/I-4,jpeg",
+        "images/I-4.jpeg",
       ],
       description: "Add a touch of elegance to your everyday style with this beautiful ivory printed kurta set. Featuring intricate traditional motifs, a stylish front panel, and 3/4 sleeves, paired with comfortable white palazzo pants. Perfect for casual outings, festive gatherings, and everyday ethnic wear..",
       specs: {
