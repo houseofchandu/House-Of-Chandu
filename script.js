@@ -606,12 +606,11 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: ["M", "L", "XL", "2XL"],
       available: ["M", "L", "XL", "2XL"],
       images: [
-        "images/white cord set-1.jpeg",
-        "images/white cord set-2 back.jpeg",
-        "images/Look-3.jpeg",
+        "images/White cord set-1.jpeg",
+        "images/look-3.jpeg",
         "images/Look-4.jpeg",
       ],
-      description:"Top and bottom included.",
+      description:"Top and bottom included,Co-ord Set Cost: ₹999 Brand: House of Chandu Style Code: Women Co-ord Set,Top and bottom included,comes With collar Neck ",
       specs: {
         Fabric: "Viscose Rayon",
         Fit: "Regular",
@@ -637,7 +636,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "images/B-3.png"
       ],
         
-      description: "Co-ord Set Cost: ₹999 Brand: House of Chandu Style Code: Women Co-ord Set,Top and bottom included.",
+      description: "Co-ord Set Cost: ₹999 Brand: House of Chandu Style Code: Women Co-ord Set,Top and bottom included.Comes With collar Neck",
       specs: {
         Fabric: "Viscose Rayon",
         Fit: "Regular",
@@ -664,7 +663,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "images/F-5.png",
         "images/F-4.png",
       ],
-      description: "Top and bottom included.",
+      description: "Top and bottom included.Comes with collar Neck ",
       specs: {
         Fabric: "Viscose Rayon",
         Fit: "Regular",
@@ -685,15 +684,19 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: ["M", "L", "XL", "2XL"],
       available: ["M", "L", "XL", "2XL"],
       images: [
-        "images/random.webp"
+        "images/L-1.jpeg",
+        "images/L-2.jpeg",
+        "images/L-3.jpeg",
+        "images/L-4.jpeg",
+
       ],
-      description: "Top and bottom included.",
+      description: "comes with collar neck,with Beautiful floral print .",
       specs: {
         Fabric: "Viscose Rayon",
         Fit: "Regular",
-        Sleeve: "Add sleeve type",
+        Sleeve: "3/4",
         Pattern: "Floral print",
-        Color: "White",
+        Color: "BLUE",
         Occasion: "Casual"
       }
     },
@@ -1219,48 +1222,56 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       id: "day-004",
-      name: "Relaxed Everyday Outfit",
+      name: "Maroon Ethnic Elegance Kurta Set",
       brand: "HOUSE OF CHANDU",
       category: "Everyday Wear",
-      price: 1599,
-      oldPrice: null,
-      badge: "",
-      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
-      available: ["XS", "S", "M", "L", "XL"],
+      price: 799,
+      oldPrice: 1899,
+      badge: "NEW",
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL","2XL"],
       images: [
-        "images/random-01.webp"
+        "images/M-2.jpeg",
+        "images/M-1.jpeg",
+        "images/M-3.jpeg",
+        "images/M-4.jpeg",
       ],
-      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      description: ".",
       specs: {
-        Fabric: "Add actual fabric",
-        Fit: "Relaxed (verify)",
-        Sleeve: "Add sleeve type",
-        Pattern: "Verify pattern",
-        Color: "Verify colour",
-        Occasion: "Everyday"
+        Fabric: "Cotton Blend",
+        Fit: "Regular fit ",
+        Sleeve: "3/4",
+        Pattern: "Geometric & Traditional Printed",
+        Color: "Marron",
+        Occasion: "	Casual, Festive & Family Wear"
       }
     },
 
     {
       id: "day-005",
-      name: "Relaxed Everyday Outfit",
+      name: "Premium Chanderi Embroidered 3-Piece Suit Set",
       brand: "HOUSE OF CHANDU",
       category: "Everyday Wear",
-      price: 1599,
-      oldPrice: null,
-      badge: "",
-      sizes: ["XS", "S", "M", "L", "XL", "2XL"],
-      available: ["XS", "S", "M", "L", "XL"],
+      price: 1199,
+      oldPrice: 2499,
+      badge: "NEW",
+      sizes: [ "M", "L",  "2XL"],
+      available: ["M", "L", "2XL"],
       images: [
-        "images/random-01.webp"
+        "images/k-1.jpeg",
+        "images/K-2.jpeg",
+        "images/K-2.jpeg",
+        "images/K-3.jpeg",
+        "images/K-4.jpeg",
+
       ],
-      description: "A relaxed daily-wear placeholder. Replace with accurate fabric, fit and wash-care details.",
+      description: "Elevate your ethnic style with this beautiful sage green suit set, featuring delicate floral embroidery, a stylish neckline and a soft floral printed dupatta. Paired with matching straight pants, it's perfect for everyday elegance and festive occasions..",
       specs: {
-        Fabric: "Add actual fabric",
-        Fit: "Relaxed (verify)",
-        Sleeve: "Add sleeve type",
-        Pattern: "Verify pattern",
-        Color: "Verify colour",
+        Fabric: "Premium Chanderi",
+        Fit: "Straight-cut kurta with a comfortable, relaxed-fit bottom.",
+        Sleeve: "3/4",
+        Pattern: "Floral Embroidered Pattern with a Printed Dupatta",
+        Color: "GREEN",
         Occasion: "Everyday"
       }
     },
