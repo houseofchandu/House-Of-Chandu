@@ -606,9 +606,8 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: ["M", "L", "XL", "2XL"],
       available: ["M", "L", "XL", "2XL"],
       images: [
-        "images/white cord set-1.jpeg",
-        "images/white cord set-2 back.jpeg"
-        "images/Look-3.jpeg",
+        "images/White cord set-1.jpeg",
+        "images/look-3.jpeg",
         "images/Look-4.jpeg",
       ],
       description:"Top and bottom included,Co-ord Set Cost: ₹999 Brand: House of Chandu Style Code: Women Co-ord Set,Top and bottom included,comes With collar Neck ",
@@ -1155,7 +1154,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "images/I-1.jpeg",
         "images/I-2.jpeg",
         "images/I-3.jpeg",
-        "images/I-4.jpeg",
+        "images/I-4,jpeg",
       ],
       description: "Add a touch of elegance to your everyday style with this beautiful ivory printed kurta set. Featuring intricate traditional motifs, a stylish front panel, and 3/4 sleeves, paired with comfortable white palazzo pants. Perfect for casual outings, festive gatherings, and everyday ethnic wear..",
       specs: {
@@ -1205,11 +1204,11 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: [ "M", "L",  "XXL"],
       available: [ "M", "L", "XXL"],
       images: [
-        "images/K-1.jpeg",
+        "images/k-1.jpeg",
         "images/K-2.jpeg",
         "images/K-2.jpeg",
         "images/K-3.jpeg",
-        "images/K-4.jpeg",
+        "images/K-4,jpeg",
       ],
       description: ".",
       specs: {
@@ -1247,6 +1246,7 @@ document.addEventListener("DOMContentLoaded", () => {
         Occasion: "	Casual, Festive & Family Wear"
       }
     },
+
     {
       id: "day-005",
       name: "Premium Chanderi Embroidered 3-Piece Suit Set",
@@ -1258,7 +1258,7 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: [ "M", "L",  "2XL"],
       available: ["M", "L", "2XL"],
       images: [
-        "images/K-1.jpeg",
+        "images/k-1.jpeg",
         "images/K-2.jpeg",
         "images/K-2.jpeg",
         "images/K-3.jpeg",
@@ -2218,8 +2218,6 @@ document.addEventListener("DOMContentLoaded", () => {
             : ""
           }
         </p>
-
-        <p class="tax-note">Inclusive of all taxes · Demo price</p>
         <hr class="detail-rule">
 
         <div class="field-label">
@@ -2510,56 +2508,67 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function buildOrderMessage(customer) {
-    const orderReference = "HOC-" + Date.now().toString().slice(-8);
+  // Generate a unique order reference
+  const orderReference =
+    "HOC-" +
+    Date.now().toString(36).toUpperCase() +
+    "-" +
+    Math.random().toString(36).substring(2, 6).toUpperCase();
 
-    const itemLines = cart.map((item, index) => {
-      const product = getProduct(item.id);
-      const itemTotal = product.price * item.quantity;
+  // Generate a unique ID for each ordered item
+  const itemLines = cart.map((item, index) => {
+    const product = getProduct(item.id);
+    const itemTotal = product.price * item.quantity;
 
-      return [
-        `${index + 1}. ${product.name}`,
-        `   Size: ${item.size}`,
-        `   Unit price: ${money(product.price)}`,
-        `   Quantity: ${item.quantity}`,
-        `   Item total: ${money(itemTotal)}`
-      ].join("\n");
-    });
-
-    const totalQuantity = cart.reduce(
-      (sum, item) => sum + item.quantity,
-      0
-    );
-
-    const subtotal = cart.reduce((sum, item) => {
-      return sum + getProduct(item.id).price * item.quantity;
-    }, 0);
+    const itemOrderId =
+      `${orderReference}-ITEM-${String(index + 1).padStart(2, "0")}`;
 
     return [
-      "🛍️ *NEW ORDER - HOUSE OF CHANDU*",
-      "",
-      `Order reference: ${orderReference}`,
-      "",
-      "*CUSTOMER DETAILS*",
-      `Name: ${customer.name}`,
-      `Phone: ${customer.phone}`,
-      `Delivery address: ${customer.address}`,
-      "",
-      "*ORDER ITEMS*",
-      "",
-      ...itemLines,
-      "",
-      "----------------------------",
-      `Total items: ${totalQuantity}`,
-      `*ORDER SUBTOTAL: ${money(subtotal)}*`,
-      "Delivery charges: To be confirmed",
-      "Payment: To be confirmed",
-      "----------------------------",
-      "",
-      "Please confirm availability, delivery charges and payment details.",
-      "",
-      "Thank you for shopping with House of Chandu!"
+      `${index + 1}. ${product.name}`,
+      `   Item Order ID: ${product.id}`,
+      `   Size: ${item.size}`,
+      `   Unit price: ${money(product.price)}`,
+      `   Quantity: ${item.quantity}`,
+      `   Item total: ${money(itemTotal)}`
     ].join("\n");
-  }
+  });
+
+  const totalQuantity = cart.reduce(
+    (sum, item) => sum + item.quantity,
+    0
+  );
+
+  const subtotal = cart.reduce((sum, item) => {
+    return sum + getProduct(item.id).price * item.quantity;
+  }, 0);
+
+  return [
+    "🛍️ *NEW ORDER - HOUSE OF CHANDU*",
+    "",
+    `*Order Reference: ${orderReference}*`,
+    "",
+    "*CUSTOMER DETAILS*",
+    `Name: ${customer.name}`,
+    `Phone: ${customer.phone}`,
+    `Delivery address: ${customer.address}`,
+    "",
+    "*ORDER ITEMS*",
+    "",
+    ...itemLines,
+    "",
+    "----------------------------",
+    `Total items: ${totalQuantity}`,
+    `*ORDER SUBTOTAL: ${money(subtotal)}*`,
+    "Delivery charges: To be confirmed",
+    "Payment method: Awaiting confirmation",
+    "----------------------------",
+    "",
+    "*Please confirm your preferred payment method to proceed.*",
+    "Also confirm product availability and delivery charges.",
+    "",
+    "Thank you for shopping with House of Chandu!"
+  ].join("\n");
+}
 
   /* =========================================
      CATEGORY BUTTONS
@@ -2781,7 +2790,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!reduceMotion && slides.length > 1) {
       slideTimer = setInterval(() => {
         showSlide(slideIndex + 1);
-      }, 5000);
+      }, 2500);
     }
   }
 
