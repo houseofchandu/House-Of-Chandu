@@ -1205,11 +1205,11 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: [ "M", "L",  "XXL"],
       available: [ "M", "L", "XXL"],
       images: [
-        "images/k-1.jpeg",
+        "images/K-1.jpeg",
         "images/K-2.jpeg",
         "images/K-2.jpeg",
         "images/K-3.jpeg",
-        "images/K-4,jpeg",
+        "images/K-4.jpeg",
       ],
       description: ".",
       specs: {
@@ -1247,7 +1247,6 @@ document.addEventListener("DOMContentLoaded", () => {
         Occasion: "	Casual, Festive & Family Wear"
       }
     },
-
     {
       id: "day-005",
       name: "Premium Chanderi Embroidered 3-Piece Suit Set",
