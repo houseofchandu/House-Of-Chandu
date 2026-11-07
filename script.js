@@ -1179,7 +1179,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "images/J-2.png",
         "images/J-3.png",
         "images/J-4.png",
-        "images/J-5.png",
+        "images/J-5.png"
       ],
       description: "Elevate your ethnic wardrobe with this beautiful wine-Marron kurta set. Featuring elegant white floral embroidery on the neckline and hem, stylish 3/4 sleeves, matching straight pants, and a stunning tie-dye printed dupatta. A perfect blend of comfort and traditional elegance, ideal for festive occasions, family gatherings, and celebrations..",
       specs: {
@@ -1206,7 +1206,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "images/K-2.jpeg",
         "images/K-2.jpeg",
         "images/K-3.jpeg",
-        "images/K-4,jpeg",
+        "images/K-4.jpeg"
       ],
       description: ".",
       specs: {
@@ -1232,7 +1232,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "images/M-2.jpeg",
         "images/M-1.jpeg",
         "images/M-3.jpeg",
-        "images/M-4.jpeg",
+        "images/M-4.jpeg"
       ],
       description: ".",
       specs: {
@@ -1244,7 +1244,6 @@ document.addEventListener("DOMContentLoaded", () => {
         Occasion: "	Casual, Festive & Family Wear"
       }
     },
-
     {
       id: "day-005",
       name: "hello",
@@ -1256,11 +1255,7 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: [ "M", "L",  "2XL"],
       available: ["M", "L", "2XL"],
       images: [
-        "images/K-1.jpeg",
-        "images/K-2.jpeg",
-        "images/K-2.jpeg",
-        "images/K-3.jpeg",
-        "images/K-4.jpeg",
+        "images/random-01.webp"
 
       ],
       description: "Elevate your ethnic style with this beautiful sage green suit set, featuring delicate floral embroidery, a stylish neckline and a soft floral printed dupatta. Paired with matching straight pants, it's perfect for everyday elegance and festive occasions..",
