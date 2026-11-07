@@ -606,8 +606,9 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: ["M", "L", "XL", "2XL"],
       available: ["M", "L", "XL", "2XL"],
       images: [
-        "images/White cord set-1.jpeg",
-        "images/look-3.jpeg",
+        "images/white cord set-1.jpeg",
+        "images/white cord set-2 back.jpeg",
+        "images/Look-3.jpeg",
         "images/Look-4.jpeg",
       ],
       description:"Top and bottom included,Co-ord Set Cost: ₹999 Brand: House of Chandu Style Code: Women Co-ord Set,Top and bottom included,comes With collar Neck ",
@@ -1137,9 +1138,6 @@ document.addEventListener("DOMContentLoaded", () => {
         Occasion: "Casual"
       }
     },
-
-    
-
     {
       id: "day-001",
       name: "Ivory Bloom Printed Kurta Set.",
@@ -1154,7 +1152,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "images/I-1.jpeg",
         "images/I-2.jpeg",
         "images/I-3.jpeg",
-        "images/I-4,jpeg",
+        "images/I-4.jpeg",
       ],
       description: "Add a touch of elegance to your everyday style with this beautiful ivory printed kurta set. Featuring intricate traditional motifs, a stylish front panel, and 3/4 sleeves, paired with comfortable white palazzo pants. Perfect for casual outings, festive gatherings, and everyday ethnic wear..",
       specs: {
@@ -1204,7 +1202,7 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: [ "M", "L",  "XXL"],
       available: [ "M", "L", "XXL"],
       images: [
-        "images/k-1.jpeg",
+        "images/K-1.jpeg",
         "images/K-2.jpeg",
         "images/K-2.jpeg",
         "images/K-3.jpeg",
@@ -1258,7 +1256,7 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: [ "M", "L",  "2XL"],
       available: ["M", "L", "2XL"],
       images: [
-        "images/k-1.jpeg",
+        "images/K-1.jpeg",
         "images/K-2.jpeg",
         "images/K-2.jpeg",
         "images/K-3.jpeg",
