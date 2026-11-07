@@ -1275,7 +1275,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       id: "day-006",
-      name: "Relaxed Everyday Outfit",
+      name: "hello",
       brand: "HOUSE OF CHANDU",
       category: "Everyday Wear",
       price: 1599,
