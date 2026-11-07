@@ -1247,7 +1247,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     {
       id: "day-005",
-      name: "Premium Chanderi Embroidered 3-Piece Suit Set",
+      name: "hello",
       brand: "HOUSE OF CHANDU",
       category: "Everyday Wear",
       price: 1199,
