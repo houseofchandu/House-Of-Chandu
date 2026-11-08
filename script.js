@@ -2561,7 +2561,7 @@ document.addEventListener("DOMContentLoaded", () => {
       sizes: [ "M", "L",  "2XL"],
       available: ["M", "L", "2XL"],
       images: [
-        "images/k-1.jpeg",
+        "images/K-1.jpeg",
         "images/K-2.jpeg",
         "images/K-2.jpeg",
         "images/K-3.jpeg",
