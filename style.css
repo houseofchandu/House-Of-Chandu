@@ -3952,3 +3952,55 @@ body.product-view .detail-back-button span {
 *::after {
     font-family: 'Roboto Slab', serif !important;
 }
+
+/* MOBILE COLLECTIONS – SINGLE COLUMN LAYOUT */
+
+@media (max-width: 760px) {
+
+  .collection-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 18px;
+    width: 100%;
+  }
+
+  .collection-card,
+  .collection-card.collection-wide,
+  .collection-card:first-child,
+  .collection-card:last-child {
+    grid-column: 1 / -1;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 5 / 4;
+    min-width: 0;
+    margin: 0;
+  }
+
+  .collection-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .collection-label {
+    position: absolute;
+    right: 16px;
+    bottom: 20px;
+    left: 16px;
+    gap: 8px;
+  }
+
+  .collection-label strong {
+    font-size: clamp(22px, 6vw, 30px);
+  }
+
+  .collection-label small {
+    font-size: 9px;
+  }
+
+  .collection-label b {
+    font-size: 12px;
+  }
+
+}
