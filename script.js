@@ -297,8 +297,8 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 999,
       oldPrice:1499,
       badge: "NEW",
-      sizes: ["M", "L",  "2XL"],
-      available: ["M", "L",  "2XL"],
+      sizes: ["M", "L", "2XL"],
+      available: ["M", "L", "2XL"],
       images: [
         "images/X-1.png",
         "images/X-2.png",
@@ -323,7 +323,7 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 799,
       oldPrice:1199,
       badge: "NEW",
-      sizes: ["M", "L",  "2XL"],
+      sizes: ["M", "L", "2XL"],
       available: ["M", "L", "XL","2XL"],
       images: [
         "images/I-1.jpeg",
