@@ -191,8 +191,8 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 999,
       oldPrice: 1499,
       badge: "NEW",
-      sizes: ["M", "L", "XL",],
-      available: ["M", "L", "XL", ],
+      sizes: ["M", "L", "XL","2XL"],
+      available: ["M", "L", "XL","2XL"],
       images: [
         "images/white cord set-1.jpeg",
         "images/white cord set-2 back.jpeg",
@@ -244,7 +244,7 @@ document.addEventListener("DOMContentLoaded", () => {
       oldPrice:1499,
       badge: "NEW",
       sizes: ["M", "L", "XL",],
-      available: ["M", "L", "XL"],
+      available: ["M", "L", "XL","2XL"],
       images: [
         "images/F-1.png",
         "images/F-2.png",
@@ -349,8 +349,8 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 999,
       oldPrice:1499,
       badge: "NEW",
-      sizes: ["M", "L", "XXL"],
-      available: [ "M", "L",,"XXL"],
+      sizes: ["M","XXL"],
+      available: [ "M",,"XXL"],
       images: [
         "images/J-1.png",
         "images/J-2.png",
@@ -403,8 +403,8 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 799,
       oldPrice: 1199,
       badge: "NEW",
-      sizes: ["M", "L", "XL", "2XL"],
-      available: ["M", "L", "XL","2XL"],
+      sizes: [ "2XL"],
+      available: ["2XL"],
       images: [
         "images/M-2.jpeg",
         "images/M-1.jpeg",
@@ -619,8 +619,8 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 899,
       oldPrice:1399,
       badge: "NEW",
-      sizes: [ "M", "L", "XL", "2XL"],
-      available: [ "M", "L", "XL","2Xl"],
+      sizes: [ "M", "L","2XL"],
+      available: [ "M", "L","2Xl"],
       images: [
         "images/AA-1.png",
         "images/AA-2.png",
@@ -672,7 +672,7 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 1049,
       oldPrice:1499,
       badge: "NEW",
-      sizes: ["M", "L",],
+      sizes: ["M", "L","2XL"],
       available: [ "M", "L",],
       images: [
         "images/V-1.png",
@@ -885,8 +885,8 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 849,
       oldPrice:1349,
       badge: "NEW",
-      sizes: ["M", "L", "XL", "2XL"],
-      available: [ "M", "L", "2XL"],
+      sizes: ["M","XL", "2XL"],
+      available: [ "M", "XL", "2XL"],
       images: [
         "images/FF-1.png",
         "images/FF-2.png",
@@ -964,7 +964,7 @@ document.addEventListener("DOMContentLoaded", () => {
      oldPrice: 1099,
      badge: "NEW",
      sizes: ["M", "L", "XL", "2XL"],
-     available: ["L", "XL","2XL"],
+     available: ["M","L", "XL","2XL"],
      images: [
        "images/II-1.jpeg",
        "images/II-2.png",
