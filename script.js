@@ -248,7 +248,6 @@
       images: [
         "images/GREEN-1.jpeg",
         "images/GREEN-2.jpeg",
-        "images/GRREN-3.jpeg",
       ],
       description: "A beautiful olive green ethnic set featuring elegant embroidery, a stylish neckline, and a graceful flowy dupatta. Perfect for a classy, traditional and elegant look....",
       specs: {
