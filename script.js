@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+  document.addEventListener("DOMContentLoaded", () => {
   "use strict";
 
   // Reset wishlist on every fresh page load. Keep the shopping bag saved.
@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 1799,
       oldPrice: 2299,
       badge: "NEW",
-      sizes: ["XS", "S", "M", "L", "XL"],
+      sizes: ["XS", "S", "M", "L",],
       available: ["M", "L", "XL"],
       images: [
         "images/Brown-1.jpeg",
@@ -118,8 +118,8 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 1999,
       oldPrice: 2499,
       badge: "NEW",
-      sizes: ["M","2XL"],
-      available: ["M","2XL"],
+      sizes: ["2XL"],
+      available: ["2XL"],
       images: [
         "images/H-1.jpeg",
         "images/H-2.jpeg",
@@ -142,8 +142,8 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 1999,
       oldPrice: 2499,
       badge: "NEW",
-      sizes: ["M","L", "XXL",],
-      available: ["M","L", "XXL", ],
+      sizes: ["L",],
+      available: ["L", ],
       images: [
         "images/G-1.png",
         "images/G-2.png",
@@ -192,7 +192,7 @@ document.addEventListener("DOMContentLoaded", () => {
       oldPrice: 1499,
       badge: "NEW",
       sizes: ["M", "L", "XL","2XL"],
-      available: ["M", "L", "XL","2XL"],
+      available: ["M", "L", "XL","2Xl" ],
       images: [
         "images/white cord set-1.jpeg",
         "images/white cord set-2 back.jpeg",
@@ -297,10 +297,9 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 999,
       oldPrice:1499,
       badge: "NEW",
-      sizes: ["M", "L", "2XL"],
-      available: ["M", "L", "2XL"],
+      sizes: ["M","2XL"],
+      available: ["M","2XL"],
       images: [
-        "images/X-1.png",
         "images/X-2.png",
         "images/X-3.png",
         
@@ -314,6 +313,34 @@ document.addEventListener("DOMContentLoaded", () => {
         Color: "Ink Blue",
         Occasion: "Casual"
       }
+
+    },
+    {
+    id:"west-006",
+      name: "beautiful light green silk co-ord se",
+      brand: "HOUSE OF CHANDU",
+      category: "Western Wear",
+      price: 899,
+      oldPrice:1399,
+      badge: "NEW",
+      sizes: ["M", "L",  "2XL", "3XL"],
+      available: ["M", "L",  "2XL", "3XL"],
+      images: [
+        "images/OO-1.png",
+        "images/OO-2.png",
+        "images/OO-3.png",
+        
+      ],
+      description: ": A graceful pastel sage-green ethnic wear set featuring a beautifully textured embroidered straight-cut kurta with a stylish slit neckline and three-quarter sleeves, paired with matching straight-fit pants. The elegant minimal design offers a sophisticated and comfortable look, perfect for everyday wear, office wear, casual outings and small festive gatherings.",
+      specs: {
+        Fabric: "Slik",
+        Fit: "Regular",
+        Sleeve: "3/4",
+        Pattern: "Embroidery",
+        Color: "Pastel Sage Green",
+        Occasion: "Casual"
+      }
+
     },
     {
       id: "day-001",
@@ -323,7 +350,7 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 799,
       oldPrice:1199,
       badge: "NEW",
-      sizes: ["M", "L", "2XL"],
+      sizes: ["M", "L",  "2XL"],
       available: ["M", "L", "XL","2XL"],
       images: [
         "images/I-1.jpeg",
@@ -349,8 +376,8 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 999,
       oldPrice:1499,
       badge: "NEW",
-      sizes: ["M","XXL"],
-      available: [ "M",,"XXL"],
+      sizes: ["M", "L", "XXL"],
+      available: [ "M", "L",,"XXL"],
       images: [
         "images/J-1.png",
         "images/J-2.png",
@@ -403,8 +430,8 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 799,
       oldPrice: 1199,
       badge: "NEW",
-      sizes: [ "2XL"],
-      available: ["2XL"],
+      sizes: ["M", "L", "XL", "2XL"],
+      available: ["M", "L", "XL","2XL"],
       images: [
         "images/M-2.jpeg",
         "images/M-1.jpeg",
@@ -619,8 +646,8 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 899,
       oldPrice:1399,
       badge: "NEW",
-      sizes: [ "M", "L","2XL"],
-      available: [ "M", "L","2Xl"],
+      sizes: [ "M", "L", "XL", "2XL"],
+      available: [ "M", "L", "XL","2Xl"],
       images: [
         "images/AA-1.png",
         "images/AA-2.png",
@@ -672,7 +699,7 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 1049,
       oldPrice:1499,
       badge: "NEW",
-      sizes: ["M", "L","2XL"],
+      sizes: ["M", "L",],
       available: [ "M", "L",],
       images: [
         "images/V-1.png",
@@ -885,8 +912,8 @@ document.addEventListener("DOMContentLoaded", () => {
       price: 849,
       oldPrice:1349,
       badge: "NEW",
-      sizes: ["M","XL", "2XL"],
-      available: [ "M", "XL", "2XL"],
+      sizes: ["M", "L", "XL", "2XL"],
+      available: [ "M", "L", "2XL"],
       images: [
         "images/FF-1.png",
         "images/FF-2.png",
@@ -964,7 +991,7 @@ document.addEventListener("DOMContentLoaded", () => {
      oldPrice: 1099,
      badge: "NEW",
      sizes: ["M", "L", "XL", "2XL"],
-     available: ["M","L", "XL","2XL"],
+     available: ["L", "XL","2XL"],
      images: [
        "images/II-1.jpeg",
        "images/II-2.png",
@@ -1033,6 +1060,84 @@ document.addEventListener("DOMContentLoaded", () => {
        Occasion: "Everyday"
      }
    },
+{
+     id: "day-028",
+     name:"Teal Blue Embroidered Straight Kurta Set",
+     brand: "HOUSE OF CHANDU",
+     category: "Everyday Wear",
+     price: 799,
+     oldPrice: 1399,
+     badge: "NEW",
+     sizes: [ "M", "L", "XL", "2XL"],
+     available: [ "M", "L", "XL","2XL"],
+     images: [
+       "images/LL-1.png",
+       "images/LL-2.png",
+       "images/LL-3.png",
+       "images/LL-4.jpeg",
+     ],
+     description: "Elegant deep teal-blue kurta set featuring intricate gold and green embroidery on the neckline and sleeve borders, complemented by delicate floral motifs throughout. Paired with matching straight-fit pants, this outfit is perfect for festive occasions, family gatherings, and casual celebrations...",
+     specs: {
+       Fabric: "Cotton Blend",
+       Fit: "Regular",
+       Sleeve: "3/4",
+       Pattern: "Thread Embroidery",
+       Color: "TeaL Blue",
+       Occasion: "Everyday"
+     }
+   },
+   {
+     id: "day-029",
+     name: "Royal Purple Floral Embroidered Kurta Pant Set",
+     brand: "HOUSE OF CHANDU",
+     category: "Everyday Wear",
+     price: 999,
+     oldPrice: 1799,
+     badge: "NEW",
+     sizes: [ "M", "L", "XL", "2XL"],
+     available: [ "M", "L", "XL","2XL"],
+     images: [
+       "images/MM-1.png",
+       "images/MM-2.png",
+       "images/MM-3.png",
+       "images/MM-4.jpeg",
+     ],
+     description: "Elevate your ethnic wardrobe with this elegant royal purple straight-cut kurta set, featuring intricate white floral embroidery on the neckline and three-quarter sleeves. Delicate embroidered motifs throughout the kurta add a graceful touch. Paired with matching straight-fit pants, this outfit is perfect for festive occasions, family gatherings, casual outings, and traditional celebrations...",
+     specs: {
+       Fabric: "Cotton Blend",
+       Fit: "Regular",
+       Sleeve: "3/4",
+       Pattern: "Thread Embroidery",
+       Color: "plum purple",
+       Occasion: "Everyday"
+     }
+   },
+    {
+     id: "day-030",
+     name: "Sunshine Yellow Embroidered Straight-Cut Salwar Suit",
+     brand: "HOUSE OF CHANDU",
+     category: "Everyday Wear",
+     price: 899,
+     oldPrice: 1499,
+     badge: "NEW",
+     sizes: [ "3XL", "4XL", "5XL", "6XL"],
+     available: [ "3XL", "4XL", "5XL","6XL"],
+     images: [
+       "images/NN-1.png",
+       "images/NN-2.png",
+       "images/NN-3.png",
+     ],
+     description: "A beautiful yellow ethnic suit set featuring an intricately embroidered neckline, diagonal geometric printed patterns, matching straight pants and a lightweight flowing dupatta with delicate lace detailing. Paired with elegant silver jhumka earrings, this outfit is perfect for festive occasions, family gatherings and daytime celebrations....",
+     specs: {
+       Fabric: "Rayon",
+       Fit: "Regular",
+       Sleeve: "3/4",
+       Pattern: "Thread Embroidery",
+       Color: "Light Yellow",
+       Occasion: "Everyday"
+     }
+   },
+
 
 
 
