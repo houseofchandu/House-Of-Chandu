@@ -1,7 +1,7 @@
   document.addEventListener("DOMContentLoaded", () => {
   "use strict";
 
-  // Reset wishlist on every fresh page load. Keep the shopping bag saved.
+  // Reset wishlist on every fresh page load. Keep the shopping bag saved
   localStorage.removeItem("houseOfChanduWishlist");
 
   /* =========================================
